@@ -1,3 +1,3 @@
-# OrdineRistorante
+# OrderRestaurant
 
-Creare un programma Java, che simuli l'ordine al ristorante.
+Create a Java program, which simulates restaurant orders like Deliveroo.
